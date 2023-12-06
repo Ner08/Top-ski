@@ -1,13 +1,12 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
-import SideBar from './components/sidebar-components/SideBar.vue'
+import { RouterView } from 'vue-router'
+import LayoutComponent from './components/LayoutComponent.vue';
 </script>
 
 <template>
-  <SideBar>
-    <router-view class="flex-shrink-1"></router-view>
-  </SideBar>
+  <LayoutComponent>
+    <router-view></router-view>
+  </LayoutComponent>
 </template>
 
 <style scoped></style>

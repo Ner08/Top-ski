@@ -1,16 +1,23 @@
 <script setup lang="ts">
-
+  import ShowcaseComponent from '@/components/ShowcaseComponent.vue';
+  import NewsletterComponent from '@/components/NewsletterComponent.vue';
+  import ServicesGridComponent from '@/components/ServicesGridComponent.vue';
+  import LearnComponent from '@/components/LearnComponent.vue';
+  import QuestionsAcordionComponent from '@/components/QuestionsAcordionComponent.vue';
+  import InstructorsComponent from '@/components/InstructorsComponent.vue'
+  import InformationComponent from '@/components/InformationComponent.vue'
 </script>
 
 <template>
-  <div class="col col-md-6 col-sm-12 col-12 border-right border-light bg-black">
-    <ul class="nav nav-underline d-flex align-items-center justify-content-center ">
-      <li class="nav-item btn">
-        <a class="nav-link active  mx- 0 mx-md-5" aria-current="page" href="#">For you</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Following</a>
-      </li>
-    </ul>
-  </div>
+    <ShowcaseComponent/>
+    <NewsletterComponent/>
+    <ServicesGridComponent/>
+    <LearnComponent/>
+    <QuestionsAcordionComponent/>
+    <InstructorsComponent/>
+    <InformationComponent/>
 </template>
+
+<style scoped>
+  
+</style>

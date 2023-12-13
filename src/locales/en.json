@@ -12,7 +12,7 @@
     "nav3" : "Instructors",
     "Acomodations" : "Acomodations",
     "Instructions" : "Instructions",
-    "SkiPasses" : "Ski Passes",
+    "Skiing" : "Skiing",
     "Readmore" : "Read More",
     "AccomodationsText" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis quam, enim et ducimus obcaecati non.",
     "InstructorsText" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis quam, enim et ducimus obcaecati non.",
@@ -44,6 +44,16 @@
     "Instructor3Text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quaerat sunt reprehenderit aliquam ex cupiditate officia!",
     "Instructor4Name" : "Vida Rekar",
     "Instructor4Text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quaerat sunt reprehenderit aliquam ex cupiditate officia!",
-    "ContactInfo" : "Contact Information"
-
+    "ContactInfo" : "Contact Information",
+    "MainLocation" : "Main Location",
+    "location" : "Jezerci 23b, Gozd Martuljek 4282",
+    "PhoneNumber" : "Phone Number",
+    "number" : "+386 31 209 803",
+    "EmailAddress" : "E-mail address",
+    "email" : "info@topski.si",
+    "SendEmailModal" : "Send us an email",
+    "Message" : "Message",
+    "SharingEmail" : "We'll never share your email with anyone else.",
+    "Send" : "Send",
+    "Close" : "Close"
 }

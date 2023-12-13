@@ -12,7 +12,7 @@
     "nav3" : "Inštruktorji",
     "Acomodations" : "Prenočišča",
     "Instructions" : "Inštrukcije",
-    "SkiPasses" : "Smučarske Karte",
+    "Skiing" : "Smučanje",
     "Readmore" : "Preberi več",
     "AccomodationsText" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis quam, enim et ducimus obcaecati non.",
     "InstructorsText" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis quam, enim et ducimus obcaecati non.",
@@ -44,5 +44,16 @@
     "Instructor3Text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quaerat sunt reprehenderit aliquam ex cupiditate officia!",
     "Instructor4Name" : "Vida Rekar",
     "Instructor4Text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quaerat sunt reprehenderit aliquam ex cupiditate officia!",
-    "ContactInfo" : "Kontaktne Informacije"
+    "ContactInfo" : "Kontaktne Informacije",
+    "MainLocation" : "Lokacija",
+    "location" : "Jezerci 23b, Gozd Martuljek 4282",
+    "PhoneNumber" : "Telefonska številka",
+    "number" : "+386 31 209 803",
+    "EmailAddress" : "Elektronski naslov",
+    "email" : "info@topski.si",
+    "SendEmailModal" : "Kontaktirajte nas",
+    "Message" : "Sporočilo",
+    "SharingEmail" : "Vašega elektronskega naslova ne bomo nikoli delili z drugimi.",
+    "Send" : "Pošlji",
+    "Close" : "Zapri"
 }

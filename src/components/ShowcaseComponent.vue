@@ -30,7 +30,7 @@
                     <h1 class="modal-title fs-5" id="exampleModalLabel">{{ $t("SendEmailModal") }}</h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <form @submit.prevent="sendEmail" ref="form">
+                <form @submit.prevent="" ref="form">
                     <div class="modal-body">
                         <div class="form-group">
                             <label for="exampleInputEmail1">{{ $t("EmailAddress") }}</label>
@@ -46,33 +46,11 @@
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{ $t('Close') }}</button>
-                        <button type="submit" class="btn btn-primary">{{ $t('Send') }}</button>
+                        <button type="submit" class="btn btn-primary"></button>
                     </div>
                 </form>
             </div>
         </div>
     </div>
 </template>
-
-<script setup lang="ts">
-
-import emailjs from '@emailjs/browser';
-import { ref } from 'vue'
-
-const form: any = ref(null);
-
-const bla = () => {
-    console.log('here')
-}
-
-const sendEmail = () => {
-    emailjs.sendForm('service_ll0surm', 'template_4s7ueje', form.value, 'RjXdvGN84KQqd6uZ7')
-        .then((result) => {
-            console.log('SUCCESS!', result.text);
-        }, (error) => {
-            console.log('FAILED...', error.text);
-        });
-}
-</script>
-
 <style scoped></style>

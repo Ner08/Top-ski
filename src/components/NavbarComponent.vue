@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
         <div class="container">
-            <!--  <img src="src\assets\images\logo.png" width="30" height="30"
+            <!--  <img src="\images\logo.png" width="30" height="30"
                 class="d-inline-block align-top me-4 " alt=""> -->
             <div class="d-inline">
                 <a href="#" class="navbar-brand">Top Ski</a>

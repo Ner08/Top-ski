@@ -6,7 +6,7 @@
                 <div class="row text-center g-4">
                     <div class="col-md">
                         <div class="card bg-dark text-light">
-                            <img class="card-img-top" src="src\assets\images\vila.jpg" alt="Card image">
+                            <img class="card-img-top" src="\images\vila.jpg" alt="Card image">
                             <div class="card-body text-center">
                                 <h3 class="card-title">{{$t("Acomodations")}}</h3>
                                 <p class="card-text">
@@ -18,7 +18,7 @@
                     </div>
                     <div class="col-md">
                         <div class="card bg-dark text-light">
-                            <img class="card-img-top" src="src\assets\images\instruktor.jpg" alt="Card image">
+                            <img class="card-img-top" src="\images\instruktor.jpg" alt="Card image">
                             <div class="card-body text-center">
                                 <h3 class="card-title">{{$t("Instructions")}}</h3>
                                 <p class="card-text">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="col-md">
                         <div class="card bg-dark text-light">
-                            <img class="card-img-top" src="src\assets\images\skier.jpg" alt="Card image">
+                            <img class="card-img-top" src="\images\skier.jpg" alt="Card image">
                             <div class="card-body text-center">
                                 <h3 class="card-title">{{$t("Skiing")}}</h3>
                                 <p class="card-text">

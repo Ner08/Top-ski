@@ -14,7 +14,7 @@
                 </div>
                 <!--   <img
             class="img-fluid w-50 d-none d-md-block"
-            src="src\assets\images\ski.png"
+            src="\images\ski.png"
             alt=""
           /> -->
             </div>

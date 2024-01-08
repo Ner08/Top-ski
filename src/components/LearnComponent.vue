@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md">
-                    <img src="src\assets\images\petrol.jpg" class="img-fluid rounded-2" alt="" />
+                    <img src="\images\petrol.jpg" class="img-fluid rounded-2" alt="" />
                 </div>
                 <div class="col-md p-5">
                     <h2>{{ $t("SkiPassPetrol") }}</h2>
@@ -34,7 +34,7 @@
                     <a href="#" class="btn btn-light mt-3"><i class="bi bi-chevron-right"></i> {{ $t("Readmore") }}</a>
                 </div>
                 <div class="col-md">
-                    <img src="src\assets\images\child.jpg" class="img-fluid rounded-2" alt="" />
+                    <img src="\images\child.jpg" class="img-fluid rounded-2" alt="" />
                 </div>
             </div>
         </div>

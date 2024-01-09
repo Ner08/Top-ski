@@ -15,7 +15,7 @@
     <LearnComponent/>
    <!--  <QuestionsAcordionComponent/> -->
    <!--  <InstructorsComponent/> -->
-    <!-- <InformationComponent/> -->
+    <InformationComponent/>
 </template>
 
 <style scoped>

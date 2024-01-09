@@ -1,7 +1,6 @@
 <template>
-    <!-- Contact & Maps -->
-    <section id="info" class="p-5">
-        <div class="container">
+    <section class="p-5">
+        <div id="info" class="container">
             <div class="row g-4">
                 <div class="col-md">
                     <h3 class="text-center mb-4">{{$t("ContactInfo")}}</h3>

@@ -1,6 +1,6 @@
 <template>
     <!-- Learn Sections-->
-    <section id="learn" class="p-5">
+    <!-- <section id="learn" class="p-5">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md">
@@ -18,7 +18,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="p-5 bg-dark text-light">
         <div class="container">
@@ -34,7 +34,7 @@
                     <a href="#" class="btn btn-light mt-3"><i class="bi bi-chevron-right"></i> {{ $t("Readmore") }}</a>
                 </div>
                 <div class="col-md">
-                    <img src="\images\child.jpg" class="img-fluid rounded-2" alt="" />
+                    <img src="\images\group-ski.jpg" class="img-fluid rounded-2" alt="" />
                 </div>
             </div>
         </div>

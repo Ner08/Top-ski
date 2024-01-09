@@ -1,18 +1,18 @@
 <template>
-    <section class="p-5">
-        <div id="info" class="container">
+    <section id="info" class="p-5">
+        <div class="container">
             <div class="row g-4">
                 <div class="col-md">
-                    <h3 class="text-center mb-4">Kontaktne Informacije</h3>
+                    <h3 class="text-center mb-4">{{ $t("ContactInfo") }}</h3>
                     <ul class="list-group list-group-flush lead">
                         <li class="list-group-item">
-                            <span class="fw-bold">Lokacija: </span> Jezerci 23b, Gozd Martuljek 4282
+                            <span class="fw-bold">{{ $t("MainLocation") }}: </span> Jezerci 23b, Gozd Martuljek 4282
                         </li>
                         <li class="list-group-item">
-                            <span class="fw-bold">Telefonska številka: </span> +386 40 494 202
+                            <span class="fw-bold">{{ $t("PhoneNumber") }}: </span> +386 40 494 202
                         </li>
                         <li class="list-group-item">
-                            <span class="fw-bold">Elektronski naslov: </span> ski@topski.si
+                            <span class="fw-bold">{{ $t("EmailAddress") }}: </span> ski@topski.si
                         </li>
                     </ul>
                 </div>

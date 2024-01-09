@@ -5,7 +5,7 @@
   import LearnComponent from '@/components/LearnComponent.vue';
   import QuestionsAcordionComponent from '@/components/QuestionsAcordionComponent.vue';
   import InstructorsComponent from '@/components/InstructorsComponent.vue'
-  import InformationComponent from '@/components/InformationComponent.vue'
+  import InformationComponent from '@/components/InformationComponent.vue';
 </script>
 
 <template>
@@ -15,7 +15,7 @@
     <LearnComponent/>
    <!--  <QuestionsAcordionComponent/> -->
    <!--  <InstructorsComponent/> -->
-    <InformationComponent/>
+    <!-- <InformationComponent/> -->
 </template>
 
 <style scoped>

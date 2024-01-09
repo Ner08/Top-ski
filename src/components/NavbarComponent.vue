@@ -17,11 +17,11 @@
                         <a href="#learn" class="nav-link">{{ $t("nav1") }}</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#questions" class="nav-link">{{ $t("nav2") }}</a>
+                        <a href="#info" class="nav-link">{{ $t("nav2") }}</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a href="#instructors" class="nav-link">{{ $t("nav3") }}</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>

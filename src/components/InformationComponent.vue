@@ -1,6 +1,6 @@
 <template>
     <!-- Contact & Maps -->
-    <section class="p-5">
+    <section id="info" class="p-5">
         <div class="container">
             <div class="row g-4">
                 <div class="col-md">

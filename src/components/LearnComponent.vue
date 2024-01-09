@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md">
-                    <img src="\images\petrol.jpg" class="img-fluid rounded-2" alt="" />
+                    <img src="\images\group-ski.jpg" class="img-fluid rounded-2" alt="" />
                 </div>
                 <div class="col-md p-5">
                     <h2>{{ $t("SkiPassPetrol") }}</h2>

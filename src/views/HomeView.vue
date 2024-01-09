@@ -13,8 +13,8 @@
     <NewsletterComponent/>
     <ServicesGridComponent/>
     <LearnComponent/>
-    <QuestionsAcordionComponent/>
-    <InstructorsComponent/>
+   <!--  <QuestionsAcordionComponent/> -->
+   <!--  <InstructorsComponent/> -->
     <InformationComponent/>
 </template>
 
